@@ -1,2 +1,2 @@
 # DeluxLauncher
-DeluxLauncher by MrWoonWorld (Не исходники, репозиторий создан для оюновлений)
+DeluxLauncher by MrWoonWorld (Не исходники, репозиторий создан для обновлений)
